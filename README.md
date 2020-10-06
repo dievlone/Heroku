@@ -1,7 +1,7 @@
-##Name: 
-###Shixin Xu
-###Venkata Guna Teja
-###Vaibhav Vishal
+Name: 
+Shixin Xu
+Venkata Guna Teja
+Vaibhav Vishal
 
 
 # node-js-getting-started
