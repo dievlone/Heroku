@@ -6,6 +6,6 @@
 https://agile-sea-85622.herokuapp.com/mongodb
 
 # Name: 
-# Shixin Xu
+# Shixin Hu
 # Venkata Guna Teja
 # Vaibhav Vishal
